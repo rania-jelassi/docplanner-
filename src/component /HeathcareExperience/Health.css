@@ -1,0 +1,24 @@
+.healthcare-experience {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 100px 150px 50px;
+}
+.lead-logo{
+    justify-content: center;
+}
+.title{
+    font-size: 2.125rem;
+    color: #00b39b;
+    font-weight: 300;
+    font-family: Helvetica;
+ 
+}
+.paragraphs{
+    display: flex;
+    justify-content: space-between;
+    line-height: 1.75;
+    padding: 10px;
+    margin: 20px;
+    width: 85%;
+}
