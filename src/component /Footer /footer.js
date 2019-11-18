@@ -5,64 +5,46 @@ export default function Footer() {
   return (
     <div className="footer">
       <p>
-        {" "}
         We are leaders in 10 countries:
-        <a className="color-footer" href="//www.znanylekarz.pl" target="_blank">
+        <a className="color-footer" href="//www.znanylekarz.pl">
           Poland
         </a>
         ,
-        <a
-          className="color-footer"
-          href="//www.doktortakvimi.com"
-          target="_blank"
-        >
+        <a className="color-footer" href="//www.doktortakvimi.com">
           Turkey
         </a>
         ,
-        <a className="color-footer" href="//www.doctoralia.es" target="_blank">
+        <a className="color-footer" href="//www.doctoralia.es">
           Spain
         </a>
         ,
-        <a className="color-footer" href="//www.miodottore.it" target="_blank">
+        <a className="color-footer" href="//www.miodottore.it">
           Italy
         </a>
         ,
-        <a className="color-footer" href="//www.znamylekar.cz" target="_blank">
+        <a className="color-footer" href="//www.znamylekar.cz">
           Czech Republic
         </a>
         ,
-        <a
-          className="color-footer"
-          href="//www.doctoralia.com.mx"
-          target="_blank"
-        >
+        <a className="color-footer" href="//www.doctoralia.com.mx">
           Mexico
         </a>
         ,
-        <a className="color-footer" href="//www.doctoralia.co" target="_blank">
+        <a className="color-footer" href="//www.doctoralia.co">
           Colombia
         </a>
         ,
-        <a
-          className="color-footer"
-          href="http://www.doctoralia.com.br"
-          target="_blank"
-        >
+        <a className="color-footer" href="http://www.doctoralia.com.br">
           Brazil
         </a>
         ,
-        <a
-          className="color-footer"
-          href="http://www.doctoraliar.com"
-          target="_blank"
-        >
+        <a className="color-footer" href="http://www.doctoraliar.com">
           Argentina
         </a>
         and
-        <a className="color-footer"
-          href="http://www.doctoralia.cl"
-          target="_blank"
-        >Chile</a>
+        <a className="color-footer" href="http://www.doctoralia.cl">
+          Chile
+        </a>
       </p>
       <p>
         {" "}

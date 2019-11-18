@@ -1,0 +1,35 @@
+.pictures {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-left: 30px 0px;
+}
+.photo {
+  max-width: 100%;
+  height: auto;
+  border: #ababab;
+  border-radius: 5px;
+  margin: -2px;
+  padding: 1.1111111111em;
+}
+.titre-pay {
+  font-size: 1.125em;
+  font-weight: 400;
+}
+.button {
+  line-height: 1em;
+  color: #fff;
+  font-weight: 400;
+  letter-spacing: 0.04em;
+  background: #3d83df;
+  width: 120px;
+  height: 28px;
+  font-size: 10.8px;
+  border-radius: 5px;
+}
+.alignement-pictures {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 1px 50px;
+}

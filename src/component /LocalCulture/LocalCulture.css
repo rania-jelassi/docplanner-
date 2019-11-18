@@ -1,0 +1,25 @@
+.local-culture {
+  display: flex;
+  margin: 10px 155px;
+}
+.title-local-culture {
+  width: 34%;
+  font-size: 1.625em;
+  margin: 1.25em 0 0.35em;
+  padding-right: 1em;
+  color: rgb(44, 190, 170);
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-weight: 300;
+}
+.logo svg {
+  height: 20px;
+  width: auto;
+  max-width: 100%;
+  padding-left: 10px;
+  margin: 2.3em 0 0.35em;
+  fill: #c4c4c4;
+  font-size: 1.5rem;
+}
+.alignement-etoile {
+  padding: 0px 48px;
+}

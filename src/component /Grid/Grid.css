@@ -1,0 +1,69 @@
+/* .grid {
+  background: #e5faf8;
+  padding: 1.875em 0 0.625em;
+  height: 570px;
+  width: 100%;
+  margin-top: 60px;
+  overflow: hidden;
+} */
+.grid-title-h1 {
+  color: rgb(25, 187, 165);
+  font-size: 2.125rem;
+  margin-left: 150px;
+  font-weight: 300;
+}
+.grid-title-h3 {
+  color: rgb(131, 131, 131);
+  font-size: 0.9rem;
+  margin-left: 150px;
+  font-weight: 300;
+}
+.photoGrid {
+  margin-top: 50px;
+  margin-left: 20px;
+}
+.imageGrid {
+  margin-left: 100px;
+  margin-top: 30px;
+}
+.titleGrid {
+  font-size: 1.45em;
+  color: #00b39b;
+  margin: 30px;
+  font-weight: 300;
+  text-align: center;
+}
+.paragraphGrid {
+  font-size: 0.85rem;
+  text-align: center;
+}
+.boxs {
+  width: 45%;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+.gridBox {
+  background-color: white;
+  width: 230px;
+  height: 250px;
+  margin-left: 26px;
+  margin-top: 9px;
+}
+.headerGrid {
+  display: flex;
+  background: #e5faf8;
+  padding: 1.875em 0 0.625em;
+  height: 570px;
+  width: 100%;
+  margin-top: 60px;
+  overflow: hidden;
+  justify-content: space-around;
+}
+.ajustement {
+  display: flex;
+  margin: 30px;
+}
+.box1 {
+  margin: 50px;
+}

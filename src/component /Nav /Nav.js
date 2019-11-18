@@ -10,14 +10,14 @@ export default function Nav(props) {
         alt="Docplanner Group"
       ></img>
       <ul className="navmenu">
-        {props.arr.map(el => (
-          <li className={el.subMenu ? "withdrop" : ""}>
+        {props.arr.map((el, key) => (
+          <li className={el.subMenu ? "withdrop" : ""} key={key}>
             {el.menu}{" "}
             {el.subMenu && (
               <ul className="dropdown">
                 {" "}
-                {el.subMenu.map(x => (
-                  <li>
+                {el.subMenu.map((x, key) => (
+                  <li key={key}>
                     <a href={x.path}>{x.name}</a>
                   </li>
                 ))}{" "}

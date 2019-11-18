@@ -1,0 +1,19 @@
+.office-header {
+  display: flex;
+  justify-content: center;
+  font-size: 2.1428571429em;
+  font-weight: 300;
+  color: rgb(0, 179, 155);
+  padding: 70px 400px 7px 400px;
+  text-align: center;
+  width: 35%;
+}
+.offices-section {
+  display: flex;
+  justify-content: center;
+  font-size: 0.95em;
+  font-weight: 300;
+  padding: 0px 400px 50px 400px;
+  text-align: center;
+  width: 33%;
+}

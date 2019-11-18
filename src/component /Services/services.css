@@ -1,0 +1,48 @@
+.services {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 155px;
+}
+.For-patients {
+  letter-spacing: 0.3px;
+  border-radius: 10px;
+  color: hsla(0, 0%, 100%, 0.7);
+  width: 50%;
+  height: 400px;
+  margin: 10px;
+  padding: 5px 40px;
+  letter-spacing: 0.3px;
+  overflow: hidden;
+  background: #00ccb1;
+}
+.button-box {
+  width: 170px;
+  height: 45px;
+  padding-bottom: 90px;
+}
+.For-doctors {
+  letter-spacing: 0.3px;
+  border-radius: 10px;
+  color: hsla(0, 0%, 100%, 0.7);
+  width: 50%;
+  height: 400px;
+  margin: 10px;
+  padding: 5px 40px;
+  letter-spacing: 0.3px;
+  overflow: hidden;
+  background: #3d83df;
+}
+.image-box {
+  max-width: 100%;
+  padding-left: 43%;
+  padding-top: 0px;
+}
+.paragraph {
+  font-size: 1.6rem;
+}
+.titre {
+  font-size: 0.95rem;
+}
+.alignement {
+  display: flex;
+}
